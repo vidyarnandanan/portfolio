@@ -1,0 +1,18 @@
+h1{
+background: rgb(124, 84, 224);
+background-color:greenyellow;
+height:100%
+}
+
+.header{
+    background-color:rgb(255, 137, 58);
+    display : flex ;
+    justify-content:space-evenly;
+   
+}
+.menu{
+
+    background-color:rgb(47, 206, 255)
+
+
+}
